@@ -12,4 +12,4 @@ Usa funciones y condicionales para interpretar palabras clave.
 3. Escribir mensajes en consola
 
 ## Autor
-Proyecto universitario
+Daniel Gomez
